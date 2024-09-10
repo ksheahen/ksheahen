@@ -8,7 +8,7 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo0cXBsZGhsdW04bndvenZmc2J3OXNyNHNvb2prdzRzYWV2dTY3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9VhOukMe2BWB4obIYa/giphy.webp">
+<img src="https://media.giphy.com/media/nFNKW6PkyxugGkS0h6/giphy.gif?cid=790b7611hvfr6ob96pg59llpwmaek8wq8qavr104m3nwjw1z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <!--
 **ksheahen/ksheahen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
