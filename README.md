@@ -8,7 +8,8 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
-<div class="tenor-gif-embed" data-postid="25767028" data-share-method="host" data-aspect-ratio="1.90476" data-width="100%"><a href="https://tenor.com/view/dallas-stars-roope-hintz-goal-stars-goal-nhl-gif-25767028">Dallas Stars Roope Hintz GIF</a>from <a href="https://tenor.com/search/dallas+stars-gifs">Dallas Stars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/dallas-stars-roope-hintz-goal-stars-goal-nhl-gif-25767028" height = "50">
+
 
 <!--
 **ksheahen/ksheahen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
