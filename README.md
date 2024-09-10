@@ -8,7 +8,7 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
-<img src="https://tenor.com/view/dallas-stars-roope-hintz-goal-stars-goal-nhl-gif-25767028" height = "50">
+<img src="https://tenor.com/view/dallas-stars-roope-hintz-goal-stars-goal-nhl-gif-25767028">
 
 
 <!--
