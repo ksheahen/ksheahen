@@ -8,7 +8,7 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
-<img src="https://tenor.com/view/dallas-stars-roope-hintz-goal-stars-goal-nhl-gif-25767028">
+<iframe src="https://giphy.com/embed/9VhOukMe2BWB4obIYa" width="480" height="262" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nhl-sports-hockey-2022-stanley-cup-playoffs-9VhOukMe2BWB4obIYa">via GIPHY</a></p>
 
 
 <!--
