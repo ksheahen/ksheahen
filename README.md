@@ -7,7 +7,7 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathrynsheahen/)
 - 💬 What I'm currently working on ... <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a> <a href="https://github.com/ksheahen/Garden">Create Your Own Garden</a>
 - 🎃 2024 HackUNT - Hallowen/Scary Challenge Track ... <a href="https://github.com/thanetate/MERNhackUNT">Monster Match</a>
-  - During the 2024 HackUNT, I collaborated with my fellow peers in creating a dating app with a spooky twist. I tackled designing and implementing our UI, especially for our home page, utilizing tools like        Figma to assist in this process. Check out the Monster Match repository to see previews and learn more!
+  - During the 2024 HackUNT, I collaborated with my fellow peers in creating a dating app with a spooky twist. I tackled designing and implementing our UI, utilizing tools like        Figma to assist in this process. Check out the Monster Match repository to see previews and learn more!
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
