@@ -6,6 +6,7 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 - 🌱 I’m currently learning: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height ="24"> <img src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" height="24"> <img src="https://static-00.iconduck.com/assets.00/linux-icon-2048x2048-sy06t4un.png" height="24">
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathrynsheahen/)
 - 💬 What I'm currently working on ... <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a> <a href="https://github.com/ksheahen/Garden">Create Your Own Garden</a>
+- 🎃 2024 HackUNT Project - Hallowen/Scary Challenge Track ... <a href="https://github.com/thanetate/MERNhackUNT">Monster Match</a>
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
