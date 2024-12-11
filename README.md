@@ -4,9 +4,12 @@ A Computer Science student at the University of North Texas by day ☀ and a Gam
 
 - 🔭 I’m currently using: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="24"> 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathrynsheahen/)
-- 💬 What I'm currently working on ... <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a> <a href="https://github.com/ksheahen/Garden">Create Your Own Garden</a>
-- 🎃 2024 HackUNT - Hallowen/Scary Challenge Track ... <a href="https://github.com/thanetate/MERNhackUNT">Monster Match</a>
-  - During the 2024 HackUNT, I collaborated with my fellow peers in creating a dating app with a spooky twist. I tackled designing and implementing our UI, utilizing tools like        Figma to assist in this process. Check out the Monster Match repository to see previews and learn more!
+- 💬 Projects:
+  - <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a>
+  - <a href="https://github.com/ksheahen/Shell">Shell</a>
+  - <a href="https://github.com/ksheahen/Garden">Create Your Own Garden</a>
+  - <a href="https://github.com/thanetate/MERNhackUNT">Monster Match (🎃 2024 HackUNT - Hallowen/Scary Challenge Track)</a>
+    -  During the 2024 HackUNT, I collaborated with my fellow peers in creating a dating app with a spooky twist. I tackled designing and implementing our UI, utilizing tools like Figma to              assist in this process. Check out the Monster Match repository to see previews and learn more!
 - ⚡ Fun fact: I am a huge Dallas Stars fan.
 
 
