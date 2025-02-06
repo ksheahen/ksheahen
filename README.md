@@ -2,7 +2,7 @@
 
 A Computer Science student at the University of North Texas by day ☀ and a Gamer by night. 🎮
 
-- 🔭 I’m currently using: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="24"> 
+- 🔭 My favorite languages: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24"> 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathrynsheahen/)
 - 💬 Projects:
   - <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a>
