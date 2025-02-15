@@ -2,7 +2,8 @@
 
 A Computer Science student at the University of North Texas by day ☀ and a Gamer by night. 🎮
 
-- 🔭 My favorite languages: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24"> 
+- 🔭 My favorite languages: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24">
+- 🌱 Languages I've worked with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/217px-C_Programming_Language.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png" height="24"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" height ="24"> <img src="https://static-00.iconduck.com/assets.00/react-icon-512x512-u6e60ayf.png" height="24">
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kathrynsheahen/)
 - 💬 Projects:
   - <a href="https://github.com/thanetate/Reading-Realm">Reading Realm</a>
