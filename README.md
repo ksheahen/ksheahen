@@ -32,7 +32,7 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧗🏻‍♀️%20Rock%20Climbing-fff)](https://github.com/ksheahen/Reading-Realm)
+[![](https://img.shields.io/badge/-🧗🏻‍♀️%20Senior%20Capstone%20Project-fff)](https://github.com/ksheahen/Rock-Climbing-App)
 [![](https://img.shields.io/badge/-📚%20Reading%20Realm-fff)](https://github.com/ksheahen/Reading-Realm)
 [![](https://img.shields.io/badge/-🖥️%20Shell-fff)](https://github.com/ksheahen/Reading-Realm)
 
