@@ -36,7 +36,6 @@
 [![](https://img.shields.io/badge/-📚%20Reading%20Realm-fff)](https://github.com/ksheahen/Reading-Realm)
 [![](https://img.shields.io/badge/-🖥️%20Shell-fff)](https://github.com/ksheahen/Reading-Realm)
 
-
 <!-- ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg) -->
 
