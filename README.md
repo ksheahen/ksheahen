@@ -37,10 +37,10 @@
 [![](https://img.shields.io/badge/-🖥️%20Shell-fff)](https://github.com/ksheahen/Reading-Realm)
 
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<!-- ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg) -->
 
-<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ksheahen&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheahen&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" /> -->
+<img height="137px" src="./profile/stats.svg" /><!--wi*quL3fcV--><img height="137px" src="./profile/top-langs.svg" />
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=ksheahen&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight) 
